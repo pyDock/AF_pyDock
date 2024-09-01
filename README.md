@@ -1,7 +1,7 @@
 # AF_pyDock
 # Analysis and Calculation of Model Confidence and pyDock Energy
 
-This repository contains a Jupyter Notebook (`analysis_protocol.ipynb`) that provides a detailed protocol for the analysis and calculation of Model Confidence and pyDock Energy functions. The notebook is intended for use in structural biology and computational docking studies, where these functions are critical for evaluating the reliability and energy efficiency of molecular models.
+This repository contains a Jupyter Notebook (`analysis_protocol.ipynb`) that provides a detailed protocol for the analysis and calculation of Model Confidence and pyDock Energy functions. The notebook is intended for use in structural biology and computational docking studies, where these functions are critical for evaluating the reliability of molecular models.
 
 ## Table of Contents
 
