@@ -79,9 +79,11 @@ possible to map each folder to the relevant part of the published protocol:
 │
 └── 4_Case_Studies/
     ├── 2FJG/
-    │   └── 2FJG.tar.gz
+    │   └── 2FJG.pdb # Reference structure
+    │   └── 2FJG.tar.xz
     └── 4POU/
-        └── 4POU.tar.gz
+        └── 4POU.pdb # Reference structure
+        └── 4POU.tar.xz # Precomputed AF2 and AF3 models
 </code></pre>
 
 Each workflow section provides the relevant scripts or usage notes. The two
