@@ -5,12 +5,6 @@ This repository accompanies the chapter
 AlphaFold**](https://doi.org/10.1007/978-1-0716-4828-5_15)
 published in *Methods in Molecular Biology (2026)*, and provides a practical, reproducible implementation of the workflow described.
 
-> [!WARNING]
-> **Development status — refactoring in progress (approximately 95% complete).**
-> The main workflow is available, but some scripts and documentation are still
-> being reviewed and harmonized. Test each stage with a small model set and
-> inspect the generated files before starting production calculations.
-
 The main goal is to demonstrate how **artificial intelligence–based modeling (AlphaFold2-Multimer and AlphaFold3)** can be combined with **energy-based scoring from pyDock** to improve the accuracy of protein–protein complex predictions, particularly for challenging cases such as:
 
 * antibody–antigen complexes
